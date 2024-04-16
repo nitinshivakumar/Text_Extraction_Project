@@ -1,4 +1,5 @@
 tesseract-ocr
+tesseract-ocr-por >= 4.9.9
 opencv-python-headless
 pytesseract 
 numpy

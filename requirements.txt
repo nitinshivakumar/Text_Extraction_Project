@@ -1,4 +1,4 @@
+tesseract-ocr
 opencv-python-headless
 pytesseract 
 numpy
-tesseract-ocr

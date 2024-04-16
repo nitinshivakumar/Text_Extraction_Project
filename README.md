@@ -4,7 +4,8 @@
 
 This project focuses on text extraction using various methods and compares their performance. Additionally, a simple model for text extraction is provided.
 
-![Text Extraction]([https://github.com/nitinshivakumar/Text_Extraction_Project/blob/main/image2.png]) 
+This project includes a Streamlit app for text extraction. You can access the app [here](https://nitinshivakumar-text-extraction-project-text-extraction-9cibwc.streamlit.app/).
+
 
 ## Process
 

@@ -4,7 +4,7 @@
 
 This project focuses on text extraction using various methods and compares their performance. Additionally, a simple model for text extraction is provided.
 
-![Text Extraction]([image_path_here](https://github.com/nitinshivakumar/Text_Extraction_Project/blob/main/image2.png)) 
+![Text Extraction]([https://github.com/nitinshivakumar/Text_Extraction_Project/blob/main/image2.png]) 
 
 ## Process
 
